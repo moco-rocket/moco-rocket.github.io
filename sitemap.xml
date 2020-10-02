@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://www.moco-rocket.space/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://example.org/</loc>
-  </url>
+  <sitemap>
+    <loc>https://www.moco-rocket.space/fr/sitemap.xml</loc>
+    
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
+  <sitemap>
+    <loc>https://www.moco-rocket.space/pl/sitemap.xml</loc>
+    
+  </sitemap>
   
-</urlset>
+  <sitemap>
+    <loc>https://www.moco-rocket.space/pt/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.moco-rocket.space/de/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.moco-rocket.space/es/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.moco-rocket.space/zh-cn/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.moco-rocket.space/zh-tw/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.moco-rocket.space/ja/sitemap.xml</loc>
+    
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.moco-rocket.space/nl/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

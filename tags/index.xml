@@ -1,14 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on あいまあいまい</title>
+    <link>https://www.moco-rocket.space/tags/</link>
+    <description>Recent content in Tags on あいまあいまい</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.moco-rocket.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>https://www.moco-rocket.space/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/css/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>html</title>
+      <link>https://www.moco-rocket.space/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/html/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>markdown</title>
+      <link>https://www.moco-rocket.space/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://www.moco-rocket.space/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://www.moco-rocket.space/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://www.moco-rocket.space/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://www.moco-rocket.space/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://www.moco-rocket.space/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.moco-rocket.space/tags/emoji/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
