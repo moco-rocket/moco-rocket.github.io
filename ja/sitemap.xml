@@ -8,23 +8,32 @@
   </url>
   
   <url>
-    <loc>https://www.moco-rocket.space/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.moco-rocket.space/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.moco-rocket.space/pl/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.moco-rocket.space/fr/blog/"
+                href="https://www.moco-rocket.space/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.moco-rocket.space/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.moco-rocket.space/blog/"
+                href="https://www.moco-rocket.space/about/"
                 />
   </url>
   
   <url>
     <loc>https://www.moco-rocket.space/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,83 +87,31 @@
   </url>
   
   <url>
-    <loc>https://www.moco-rocket.space/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.moco-rocket.space/contact/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/tags/css/"
+                hreflang="de"
+                href="https://www.moco-rocket.space/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.moco-rocket.space/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.moco-rocket.space/zh-cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.moco-rocket.space/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/tags/html/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/blog/markdown-syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/categories/syntax/"
+                href="https://www.moco-rocket.space/contact/"
                 />
   </url>
   
   <url>
     <loc>https://www.moco-rocket.space/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -208,38 +165,7 @@
   </url>
   
   <url>
-    <loc>https://www.moco-rocket.space/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/categories/themes/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.moco-rocket.space/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -289,140 +215,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://www.moco-rocket.space/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/tags/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/blog/rich-content/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/tags/shortcodes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/tags/emoji/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/blog/emoji-support/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://www.moco-rocket.space/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.moco-rocket.space/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.moco-rocket.space/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.moco-rocket.space/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.moco-rocket.space/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.moco-rocket.space/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.moco-rocket.space/zh-cn/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.moco-rocket.space/contact/"
                 />
   </url>
   

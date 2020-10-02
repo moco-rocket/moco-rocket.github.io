@@ -5,25 +5,6 @@
     <link>https://www.moco-rocket.space/categories/</link>
     <description>Recent content in Categories on あいまあいまい</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.moco-rocket.space/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>syntax</title>
-      <link>https://www.moco-rocket.space/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.moco-rocket.space/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://www.moco-rocket.space/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.moco-rocket.space/categories/themes/</guid>
-      <description></description>
-    </item>
-    
+    <language>ja</language><atom:link href="https://www.moco-rocket.space/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

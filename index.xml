@@ -5,8 +5,7 @@
     <link>https://www.moco-rocket.space/</link>
     <description>Recent content on あいまあいまい</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.moco-rocket.space/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://www.moco-rocket.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3Dモデル利用規約</title>
       <link>https://www.moco-rocket.space/licence/</link>
@@ -23,43 +22,6 @@
  第3条1-5.の例外を除き，第三者が改変可能な状態で再配布を行わないこと 特定の信条・宗教および政治的発言のために利用しないこと その他，作者が不適切とみなす行為に利用しないこと    利用者はこの規約で許諾した権利を第三者に再許諾することはできないものとします
   第3条の2　本規約違反者等への対処
  作者は利用者が本規約に違反した場合もしくはその恐れのある場合,または利用者による本規約に該当する配布著作物の利用に関し第三者からクレーム・請求等がなされ,かつ作者が当規約第3条に該当する行為かつ必要と認めた場合にのみ,利用者に対しその調査の協力を求めることができ,利用者はこの調査への協力に同意するものとします．また,その他の理由で必要と作者が判断した場合,当該利用者に対し,以下のいずれか,または複数項の措置を組み合わせて講ずることがあります  規約等に違反する行為またはそのおそれのある行為を止めること,および同様の行為を繰り返さないことを要求します 第三者との間で,クレーム・請求等の解消のための協議を行うことを要求します（裁判外紛争解決手続を含む） 利用者が発信または表示する情報の全部もしくは一部を削除及び削除要請をします その他,必要と判断する対応を行います   作者は本条第1項への協力に基づき,利用者自身による以下の行為を許諾します  本規約に違反する個人及び団体を任意の環境で確認した場合,作者及び利用者本人の判断によってのみ,該当環境を管理または運営する組織及び個人へ本規約に反する行為を行っている者が存在する旨を通知すること   利用者は前項の利用にあたり,下記の各号に定める全ての利用条件を遵守するものとします  利用者が前項の行動を予定する場合,当規約の各条項および該当する法令にのみに従いそれを行うこと   作者は本条に定める措置を講ずることにつき何ら義務を負うものではなく,また当該措置に起因する結果に一切の責任を負いません．  第4条 ライセンスの終了</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://www.moco-rocket.space/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.moco-rocket.space/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://www.moco-rocket.space/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.moco-rocket.space/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://www.moco-rocket.space/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.moco-rocket.space/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://www.moco-rocket.space/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.moco-rocket.space/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
